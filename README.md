@@ -1,4 +1,4 @@
-# My first Data Science project
+# Internshala Data Science project
 
 Problem Statement
 Your client is a retail banking institution. Term deposits are a major source
