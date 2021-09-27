@@ -1,6 +1,6 @@
 # Internshala Data Science project
 
-Problem Statement
+### Problem Statement
 Your client is a retail banking institution. Term deposits are a major source
 of income for a bank.
 A term deposit is a cash investment held at a financial institution. Your
@@ -20,7 +20,7 @@ provided with the information of the call such as the duration of the call, day
 and month of the call, etc. Given this information, your task is to predict if
 the client will subscribe to term deposit.
 
-Data Dictionary
+### Data Dictionary
 Here is the description of all the variables :
 Variable Definition
 ID: Unique client ID
